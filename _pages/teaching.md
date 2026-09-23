@@ -6,73 +6,38 @@ nav: true
 nav_order: 2
 ---
 
-Teaching is a central--maybe even the best--part of my work as a mathematician. 
+Teaching is an important--and my favorite--part of my work as a mathematician.
 
-I see my role in and outside the classroom as that of a coach: someone who works alongside students, providing encouragement, structure, and candid guidance while gradually asking them to take ownership of their learning process.
+My teaching is guided by three ideas: **coaching, enthusiasm, and pragmatism**. I see my role as helping students find a path forward while encouraging them to take increasing ownership of their learning. I also try to make mathematics memorable and engaging, whether through visualization, historical context, discussion, or simply a well-chosen explanation. At the same time, I do not believe that good teaching has a single prescribed form; my approach changes with the course, the topic, and the students.
 
-## Teaching Experience
+I have taught courses in calculus and discrete mathematics and have worked extensively with students in calculus and linear algebra. I am also a Graduate Associate at Notre Dame's Kaneb Center for Teaching Excellence.
 
-### University of Notre Dame
+In 2026, I received Notre Dame's **Outstanding Graduate Student Teaching Award** and was also named an **Outstanding Summer Online Instructor**.
 
-**Instructor of Record**
+## Highlights of My Teaching Practice
 
-- **Calculus II (MATH 10560)** — Online Summer 2026
-- **Calculus II (MATH 10560)** — Online Summer 2025
-- **Calculus I (MATH 10550)** — Fall 2024
+### Redesigning Online Calculus II
 
-For the online Calculus II courses, I designed and administered the course in Canvas using a flipped-classroom format combining synchronous class meetings and oral exams with asynchronous instructional videos and weekly problem portfolios.
+Together with **Prof. Brian Mulholland and Emma Dooley**, I contributed to the continued development of Notre Dame's online summer Calculus II course. Building on its existing flipped-classroom format, we redesigned the weekly assessment structure by introducing problem portfolios + video walkthroughs in place of weekly quizzes.
 
-**Head Teaching Assistant**
-
-- **Introduction to Linear Algebra and Differential Equations (MATH 20580)** — Spring 2026
-
-Coordinated the teaching assistant team in developing course-wide worksheets and led course-wide review sessions before exams.
-
-**Teaching Assistant**
-
-- **Calculus I (MATH 10550)** — Fall 2025
-- **Calculus B (MATH 10360)** — Spring 2024
-- **Calculus I (MATH 10550)** — Fall 2023
-
-### Holy Cross College
-
-**Adjunct Instructor (Instructor of Record)**
-
-- **Discrete Mathematics (MATH 111)** — Spring 2026
-
-### University of Puerto Rico at Río Piedras
-
-**Teaching Assistant**
-
-- **Introduction to Computer Programming (CCOM 3030)** — Fall 2020
-
-
-## Teaching Leadership and Mentoring
-
-### Graduate Associate, Kaneb Center for Teaching Excellence
-
-**University of Notre Dame — Fall 2026–Present**
-
-I facilitate workshops for graduate student instructors on teaching and course design and contribute to the Kaneb Center's teaching and learning blog.
+In the portfolios, students selected representative problems from the week's material, wrote complete solutions, reflected on why each problem was worth including, and created a video walkthrough of one solution. The portfolios were designed to encourage students to revisit and organize the week's mathematics while reflecting on both how problems are solved and what makes them instructive. The video walkthrough help them prepare for the oral examinations. 
 
 ### Booster Shot Review Program
 
-**Introduction to Linear Algebra and Differential Equations Coordinator — Fall 2026–Present**
+I began working with Notre Dame's **Booster Shot Review Program** as a volunteer facilitator, leading focused 30-minute review sessions in Calculus I and Calculus II. I later developed and introduced Booster Shots for **Introduction to Linear Algebra and Differential Equations**, designing short review sets that combine conceptual reminders with collaborative problem solving.
 
-I develop review materials and oversee two undergraduate facilitators who lead weekly targeted review sessions.
+I now coordinate the Linear Algebra Booster Shots with **Brian Mulholland and Gregory Macklem**, developing the review materials and overseeing undergraduate facilitators **Matthew Budd and Brandon Pearson**, who lead the sessions.
 
-**Facilitator — Fall 2025–Spring 2026**
+[Sample Booster Shot materials →](#)
 
-I led Booster Shot sessions for Calculus I and Calculus II and designed and facilitated the first Booster Shots for Introduction to Linear Algebra and Differential Equations.
+### Visualization and Mathematical Exploration
 
-### Algebraic Geometry Reading Group
+I enjoy creating visual and interactive materials when they can make an idea more intuitive. These have included **GeoGebra and Desmos explorations**, diagrams and animations, and a three-dimensional **Gram--Schmidt visualization** created with Manim for a course-wide Linear Algebra review.
 
-**Volunteer Mentor — Summer 2025**
+Rather than treating these as supplements for their own sake, I use them when a visual representation can reveal mathematical structure that is difficult to see from formulas alone.
 
-I mentored two students from the University of Puerto Rico in a reading group based on *Ideals, Varieties, and Algorithms*.
+[GeoGebra materials →](#) · [Gram--Schmidt animation →](#)
 
+For a complete record of my teaching experience, see my [CV](/assets/pdf/cv.pdf).
 
-## Teaching Recognition
-
-- **Outstanding Summer Online 2026 Instructor**, Notre Dame Summer Online Program, 2026
-- **Outstanding Graduate Student Teaching Award**, Kaneb Center for Teaching Excellence, 2026
+I also keep a small collection of [words from students that have stayed with me](/words-i-carry/).
