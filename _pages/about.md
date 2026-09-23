@@ -1,6 +1,6 @@
 ---
 layout: About
-title: About
+title: Jaziel Torres
 permalink: /
 subtitle: Ph.D. Candidate in Mathematics at the University of Notre Dame
 
