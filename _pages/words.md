@@ -1,6 +1,6 @@
 ---
 layout: page
-title: words I carry with me
+title: Words I carry with me
 permalink: /words-i-carry/
 nav: true
 nav_order: 3
