@@ -26,8 +26,6 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-
-Jaziel Torres
 Ph.D. Candidate in Mathematics at the University of Notre Dame
 
 I am a mathematician working in algebraic geometry, with a current focus on complex hyperbolicity and the Green–Griffiths–Lang conjecture. My research combines geometric questions with explicit and computational approaches to jet differentials. I have also done work on the multidimensional linear complexity of periodic arrays, and everything related to Costas arrays, especially their periodic properties and multidimensioal generalizations.
