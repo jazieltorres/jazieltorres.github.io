@@ -36,7 +36,7 @@ I enjoy creating visual and interactive materials when they can make an idea mor
 
 Rather than treating these as supplements for their own sake, I use them when a visual representation can reveal mathematical structure that is difficult to see from formulas alone.
 
-[GeoGebra materials →](#) · [Gram--Schmidt animation →](#)
+[GeoGebra materials →](#) · [Gram–Schmidt animation →](#)
 
 For a complete record of my teaching experience, see my [CV](/assets/pdf/cv.pdf).
 
