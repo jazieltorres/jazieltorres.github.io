@@ -27,8 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Jaziel Torres
+Ph.D. Candidate in Mathematics at the University of Notre Dame
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a mathematician working in algebraic geometry, with a current focus on complex hyperbolicity and the Green–Griffiths–Lang conjecture. My research combines geometric questions with explicit and computational approaches to jet differentials. I have also done work on the multidimensional linear complexity of periodic arrays, and everything related to Costas arrays, especially their periodic properties and multidimensioal generalizations.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am also deeply committed to undergraduate mathematics education and mentoring. I am currently a Graduate Associate at the Notre Dame's Kaneb Center for Teaching Excellence. My pedagogical interests focus primarily on proactive student mentorship, accessible mathematical visualization, and inclusive classroom environments. I approach my role as a “student coach,” emphasizing personal connection, approachable support, and contagious enthusiasm to help students build confidence and achieve conceptual mastery.
