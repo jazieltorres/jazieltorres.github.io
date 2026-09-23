@@ -18,7 +18,7 @@ In 2026, I received Notre Dame's **Outstanding Graduate Student Teaching Award**
 
 ### Redesigning Online Calculus II
 
-Together with **Prof. Brian Mulholland and Emma Dooley**, I contributed to the continued development of Notre Dame's online summer Calculus II course. Building on its existing flipped-classroom format, we redesigned the weekly assessment structure by introducing problem portfolios + video walkthroughs in place of weekly quizzes.
+Together with **Brian Mulholland and Emma Dooley**, I contributed to the continued development of Notre Dame's online summer Calculus II course. Building on its existing flipped-classroom format, we redesigned the weekly assessment structure by introducing problem portfolios + video walkthroughs in place of weekly quizzes.
 
 In the portfolios, students selected representative problems from the week's material, wrote complete solutions, reflected on why each problem was worth including, and created a video walkthrough of one solution. The portfolios were designed to encourage students to revisit and organize the week's mathematics while reflecting on both how problems are solved and what makes them instructive. The video walkthrough help them prepare for the oral examinations. 
 
