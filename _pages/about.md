@@ -1,6 +1,6 @@
 ---
-layout: about
-title: about
+layout: About
+title: About
 permalink: /
 subtitle: Ph.D. Candidate in Mathematics at the University of Notre Dame
 
