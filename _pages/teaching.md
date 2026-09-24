@@ -30,11 +30,11 @@ I now coordinate the Linear Algebra Booster Shots with Brian Mulholland and Greg
 
 [Sample Booster Shot materials →](#)
 
-### Visualization and Mathematical Exploration
+### Visualization and Exploration
 
-I enjoy creating visual and interactive materials when they can make an idea more intuitive. These have included *GeoGebra and Desmos explorations*, diagrams and animations, and a three-dimensional *Gram–Schmidt visualization* created with Manim for a course-wide Linear Algebra review.
+I love creating visual and interactive materials because they can make an idea more intuitive. These have included *GeoGebra* and *Desmos* interactive modules with graphs, diagrams and animations, and a three-dimensional *Gram–Schmidt visualization* created with Manim for a course-wide Linear Algebra review.
 
-Rather than treating these as supplements for their own sake, I use them when a visual representation can reveal mathematical structure that is difficult to see from formulas alone.
+As they say, a picture is worth a thousand words. In math, a picture is worth *more* than a thousand formulas. 
 
 [GeoGebra materials →](#) · [Gram–Schmidt animation →](#)
 
