@@ -1,19 +1,34 @@
+---
+---
+
 .student-quote {
-  margin: 1.5rem 0;
-  padding: 1.25rem 1.5rem;
-  border-left: 4px solid var(--global-theme-color);
-  background: var(--global-card-bg-color);
-  border-radius: 0.4rem;
+  position: relative;
+  margin: 2.75rem 0;
+  padding: 0.25rem 0 0.25rem 2.25rem;
+  border-left: 2px solid var(--global-theme-color);
+}
+
+.student-quote::before {
+  content: "“";
+  position: absolute;
+  left: 0.55rem;
+  top: -0.35rem;
+  font-family: Georgia, serif;
+  font-size: 2.6rem;
+  line-height: 1;
+  color: var(--global-theme-color);
+  opacity: 0.55;
 }
 
 .student-quote .quote-text {
-  font-size: 1.1rem;
+  margin: 0;
+  font-size: 1.12rem;
   line-height: 1.7;
-  margin-bottom: 0.75rem;
 }
 
 .student-quote .quote-source {
-  margin: 0;
-  font-size: 0.95rem;
-  opacity: 0.75;
+  margin: 0.8rem 0 0;
+  font-size: 0.9rem;
+  opacity: 0.65;
+  text-align: right;
 }
