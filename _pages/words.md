@@ -77,7 +77,7 @@ This is not meant to be a collection of course evaluations or a record of teachi
 
 <div class="student-quote">
   <p class="quote-text">
-    I was really disappointed and feeling incapable of getteing better grades, but you showed me it was possible and acheivable. It's mentors like you that make this journey worht it. 
+    I was really disappointed and feeling incapable of getting better grades, but you showed me it was possible and acheivable. It's mentors like you that make this journey worht it. 
   </p>
   <p class="quote-source">
     — Calculus I Tutorial Student
