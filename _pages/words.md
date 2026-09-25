@@ -44,6 +44,15 @@ Over the years, students have written things to me that made me smile, encourage
 
 This is not meant to be a collection of course evaluations or a record of teaching effectiveness. It is simply a collection of words that have stayed with me.
 
+<div class="student-quote">
+  <p class="quote-text">
+    I attribute my continued success in this course to your office hours, ability to explain complex concepts with ease, and enthusiasm for us learning new skills. This class was truly one of a kind, and I have learned countless study habits, mastered many Calc II topics, and have a new love for learning math (and using desmos). I can't thank you enough for giving me the motivation to continue to have a positive mindset while approaching difficult classes.
+  </p>
+  <p class="quote-source">
+    — Calculus II Student
+  </p>
+</div>
+
 
 <div class="student-quote">
   <p class="quote-text">
