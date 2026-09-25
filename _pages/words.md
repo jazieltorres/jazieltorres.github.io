@@ -47,7 +47,7 @@ This is not meant to be a collection of course evaluations or a record of teachi
 
 <div class="student-quote">
   <p class="quote-text">
-    "I was very lucky to have you as our tutorial professor because your contagious energy and enthusiasm made a class that is very boring in my opinion into something interesting and fun to learn."
+    "I was very lucky to have you as our tutorial professor because your contagious energy and enthusiasm made a class that is very boring in my opinion into something interesting and fun to learn. Thank you for being so willing to help, offering many office hours, sending encouraging emails, giving so much of your time, and even being excited to answer questions or just talk with us. You help me see why linear algebra is (sometimes) cool and interesting."
   </p>
   <p class="quote-source">
     — Linear Algebra & Diff. Eqs Tutorial Student
