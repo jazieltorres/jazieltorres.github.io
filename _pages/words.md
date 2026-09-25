@@ -6,6 +6,40 @@ nav: true
 nav_order: 3
 ---
 
+<style>
+.student-quote {
+  position: relative;
+  margin: 2.8rem 0;
+  padding: 0.4rem 0 0.4rem 2.4rem;
+  border-left: 2px solid var(--global-theme-color);
+}
+
+.student-quote::before {
+  content: "“";
+  position: absolute;
+  left: 0.6rem;
+  top: -0.35rem;
+  font-family: Georgia, serif;
+  font-size: 2.8rem;
+  line-height: 1;
+  color: var(--global-theme-color);
+  opacity: 0.55;
+}
+
+.student-quote .quote-text {
+  margin: 0;
+  font-size: 1.12rem;
+  line-height: 1.75;
+}
+
+.student-quote .quote-source {
+  margin: 0.85rem 0 0;
+  font-size: 0.9rem;
+  opacity: 0.65;
+  text-align: right;
+}
+</style>
+
 Over the years, students have written things to me that made me smile, encouraged me, and reminded me why I love teaching.
 
 This is not meant to be a collection of course evaluations or a record of teaching effectiveness. It is simply a collection of words that have stayed with me.
