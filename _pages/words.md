@@ -53,3 +53,13 @@ This is not meant to be a collection of course evaluations or a record of teachi
     — Linear Algebra & Diff. Eqs Tutorial Student
   </p>
 </div>
+
+
+<div class="student-quote">
+  <p class="quote-text">
+    "Leading up to the exam, I was really confused by the material, but then your tutorials and booster lectures helped me undersdant it better. Your enthusiasm especially motivated me to study hard... and I got a 100! Thanks again for all your care."
+  </p>
+  <p class="quote-source">
+    — Linear Algebra & Diff. Eqs Tutorial Student
+  </p>
+</div>
